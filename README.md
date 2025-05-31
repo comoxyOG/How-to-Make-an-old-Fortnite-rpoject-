@@ -25,10 +25,11 @@ Then:
 - Locate the following DLLs in the same directory as the Python script:
     - Paradise.dll
     - Project Reboot 3.0.dll
-- Inject both DLLs into the Fortnite process as soon as it starts using LoadLibraryW.
-- Set up an HTTP redirect server to listen on: http://127.0.0.1:3551
+- Inject both DLLs into the Fortnite process immediately after it starts, using LoadLibraryW.
+- The launcher must stay open and **cannot close** after launch or injection.
 
-CODING LANGUAGE: Python**
+CODING LANGUAGE: Python
+**
 GUI OR NO GUI: ANSWER NO GUI; Make it a CLI
 "
 </details>
