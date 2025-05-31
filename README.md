@@ -1,5 +1,5 @@
-# How-to-Make-an-old-Fortnite-rpoject-
-How to make an old Fortnite project!
+# How-to-Make-an-old-Fortnite-Project-
+**How to make an old Fortnite project!**
 
 <details>
   <summary>The CHATGPT Python Way</summary>
