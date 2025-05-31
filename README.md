@@ -32,6 +32,7 @@ CODING LANGUAGE: Python
 **
 GUI OR NO GUI: ANSWER NO GUI; Make it a CLI
 PS: MAKE IT INJECT THE DLLS AS SOON AS FORTNITE LAUNCHES
+PS (2): 1. make it so if it detects the launcher is ran in admin it restarts is as admin. to inject the dll.
 "
 </details>
 
