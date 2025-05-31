@@ -2,7 +2,7 @@
 **How to make an old Fortnite project!**
 
 <details>
-  <summary>The CHATGPT Python Way</summary>
+  <summary>The CHATGPT Python CLI WAY (CMD)</summary>
   What to send to chatgpt: 
 "**Make me an ALL-IN-ONE offer! (LAUNCHER FOR FORTNITE!)
 
@@ -29,6 +29,7 @@ Then:
 - Set up an HTTP redirect server to listen on: http://127.0.0.1:3551
 
 CODING LANGUAGE: Python**
+GUI OR NO GUI: ANSWER NO GUI; Make it a CLI
 "
 </details>
 
