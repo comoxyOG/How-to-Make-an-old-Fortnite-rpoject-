@@ -3,8 +3,8 @@ How to make an old Fortnite project!
 
 <details>
   <summary>The CHATGPT Python Way</summary>
-  What to send: 
-"Make me an ALL-IN-ONE offer! (LAUNCHER FOR FORTNITE!)
+  What to send to chatgpt: 
+"**Make me an ALL-IN-ONE offer! (LAUNCHER FOR FORTNITE!)
 
 I want you to make an Old Fortnite Launcher that:
 
@@ -28,6 +28,6 @@ Then:
 - Inject both DLLs into the Fortnite process as soon as it starts using LoadLibraryW.
 - Set up an HTTP redirect server to listen on: http://127.0.0.1:3551
 
-CODING LANGUAGE: Python
+CODING LANGUAGE: Python**
 "
 </details>
